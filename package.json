@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Pandaryu91/bundle.git",
+  "homepage": "https://pandaryu91.github.io/bundle/",
   "name": "my-agora-states-client",
   "version": "0.1.0",
   "private": true,
@@ -84,6 +84,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "webpack": "^5.76.2",
     "webpack-cli": "^5.0.1"
   },
